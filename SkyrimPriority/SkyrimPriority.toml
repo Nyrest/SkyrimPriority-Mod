@@ -1,0 +1,12 @@
+## DO NOT try any value not listed below.
+
+## Priorities
+# Idle          = 64	
+# Below Normal  = 16384	
+# Normal        = 32    (Default)
+# Above Normal  = 32768	
+# High          = 128
+# Realtime      = 256   (Require run SKSE as Administrator)
+
+[SkyrimPriority]
+priority=128
