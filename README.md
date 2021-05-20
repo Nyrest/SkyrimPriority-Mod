@@ -6,7 +6,7 @@ Many modern games will set their priority to `High` automatically like Assassin'
 It ensured the game **always take most of CPU usage, prevent suddenly lag caused by other processes**.  
 Now Skyrim can do the same  
 
-Kick other processes out. Skyrim is the only one who should have whole CPU.
+Kick other processes out. Skyrim is the only one who should have whole CPU.  
 Be a wonder chicken Rude and Unreasonable.
 
 ## Priorities
