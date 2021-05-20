@@ -3,9 +3,11 @@
 
 Tired of setting priority manually everytime after game startup?   
 Many modern games will set their priority to `High` automatically like Assassin's Creed, Watch Dogs ..etc  
-It ensured the game **always take most of CPU usage**  
+It ensured the game **always take most of CPU usage, prevent suddenly lag caused by other processes**.  
 Now Skyrim can do the same  
-Be a wonder chicken Rude and Unreasonable 🐔
+
+Kick other processes out. Skyrim is the only one who should have whole CPU.
+Be a wonder chicken Rude and Unreasonable.
 
 ## Priorities
 |     Priority | Value | 
